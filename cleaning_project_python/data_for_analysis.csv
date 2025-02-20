@@ -1,0 +1,201 @@
+employee_id,name,title,date_hired,location,sale_id,car_make,car_model,price,date_sold,car_id,date_listed
+2,Employee 2,Salesman,2/28/2015,Chicago,62,Toyota,Accord,77094,3/7/2021,62,3/8/2020
+2,Employee 2,Salesman,2/28/2015,Chicago,174,Toyota,Camry,44098,4/30/2023,174,5/1/2022
+2,Employee 2,Salesman,2/28/2015,Chicago,184,Toyota,Model X,73620,7/9/2023,184,7/10/2022
+3,Employee 3,Manager,3/31/2015,Miami,166,Ford,Model Y,59136,3/5/2023,166,3/6/2022
+3,Employee 3,Manager,3/31/2015,Miami,188,Honda,Camry,47812,8/6/2023,188,8/7/2022
+4,Employee 4,Salesman,4/30/2015,Los Angeles,90,BMW,Camry,26643,9/19/2021,90,9/20/2020
+5,Employee 5,Salesman,5/31/2015,Houston,7,Toyota,Model X,49103,2/16/2020,7,2/17/2019
+5,Employee 5,Salesman,5/31/2015,Houston,37,Honda,Model Y,51468,9/13/2020,37,9/15/2019
+5,Employee 5,Salesman,5/31/2015,Houston,41,Ford,Accord,24924,10/11/2020,41,10/13/2019
+5,Employee 5,Salesman,5/31/2015,Houston,77,Ford,Civic,32937,6/20/2021,77,6/21/2020
+6,Employee 6,Salesman,6/30/2015,Chicago,86,BMW,Model X,61066,8/22/2021,86,8/23/2020
+6,Employee 6,Salesman,6/30/2015,Chicago,115,Toyota,Civic,78747,3/13/2022,115,3/14/2021
+6,Employee 6,Salesman,6/30/2015,Chicago,126,Mercedes,Model Y,50310,5/29/2022,126,5/30/2021
+6,Employee 6,Salesman,6/30/2015,Chicago,132,Mercedes,Civic,42900,7/10/2022,132,7/11/2021
+6,Employee 6,Salesman,6/30/2015,Chicago,185,BMW,Model Y,79926,7/16/2023,185,7/17/2022
+6,Employee 6,Salesman,6/30/2015,Chicago,186,Ford,Model Y,41526,7/23/2023,186,7/24/2022
+7,Employee 7,Salesman,7/31/2015,Miami,4,Toyota,Civic,64016,1/26/2020,4,1/27/2019
+7,Employee 7,Salesman,7/31/2015,Miami,21,BMW,Model X,68903,5/24/2020,21,5/26/2019
+7,Employee 7,Salesman,7/31/2015,Miami,54,BMW,Camry,77012,1/10/2021,54,1/12/2020
+7,Employee 7,Salesman,7/31/2015,Miami,141,Mercedes,Model X,38619,9/11/2022,141,9/12/2021
+8,Employee 8,Manager,8/31/2015,Miami,10,BMW,Model Y,46493,3/8/2020,10,3/10/2019
+8,Employee 8,Manager,8/31/2015,Miami,120,Honda,Model X,54826,4/17/2022,120,4/18/2021
+9,Employee 9,Manager,9/30/2015,Chicago,20,Mercedes,Model X,26505,5/17/2020,20,5/19/2019
+9,Employee 9,Manager,9/30/2015,Chicago,85,BMW,Camry,45908,8/15/2021,85,8/16/2020
+9,Employee 9,Manager,9/30/2015,Chicago,87,Toyota,Model Y,35125,8/29/2021,87,8/30/2020
+9,Employee 9,Manager,9/30/2015,Chicago,158,Mercedes,Civic,51582,1/8/2023,158,1/9/2022
+9,Employee 9,Manager,9/30/2015,Chicago,159,Honda,Accord,40204,1/15/2023,159,1/16/2022
+9,Employee 9,Manager,9/30/2015,Chicago,177,Ford,Camry,78433,5/21/2023,177,5/22/2022
+10,Employee 10,Manager,10/31/2015,Houston,55,Mercedes,Camry,26839,1/17/2021,55,1/19/2020
+10,Employee 10,Manager,10/31/2015,Houston,144,Honda,Civic,34729,10/2/2022,144,10/3/2021
+11,Employee 11,Salesman,11/30/2015,Houston,93,Mercedes,Model Y,51475,10/10/2021,93,10/11/2020
+11,Employee 11,Salesman,11/30/2015,Houston,175,Honda,Accord,26849,5/7/2023,175,5/8/2022
+12,Employee 12,Manager,12/31/2015,Los Angeles,23,Toyota,Civic,46072,6/7/2020,23,6/9/2019
+12,Employee 12,Manager,12/31/2015,Los Angeles,51,Toyota,Accord,61883,12/20/2020,51,12/22/2019
+12,Employee 12,Manager,12/31/2015,Los Angeles,112,Ford,Accord,58076,2/20/2022,112,2/21/2021
+14,Employee 14,Manager,2/29/2016,Los Angeles,150,Ford,Civic,60274,11/13/2022,150,11/14/2021
+15,Employee 15,Finance Officer,3/31/2016,Miami,25,Mercedes,Model Y,51231,6/21/2020,25,6/23/2019
+15,Employee 15,Finance Officer,3/31/2016,Miami,89,Ford,Accord,30784,9/12/2021,89,9/13/2020
+15,Employee 15,Finance Officer,3/31/2016,Miami,109,Honda,Civic,75908,1/30/2022,109,1/31/2021
+15,Employee 15,Finance Officer,3/31/2016,Miami,162,Toyota,Model Y,77768,2/5/2023,162,2/6/2022
+16,Employee 16,Salesman,4/30/2016,Chicago,24,BMW,Model Y,61805,6/14/2020,24,6/16/2019
+16,Employee 16,Salesman,4/30/2016,Chicago,154,BMW,Model X,52805,12/11/2022,154,12/12/2021
+16,Employee 16,Salesman,4/30/2016,Chicago,192,Toyota,Model X,20304,9/3/2023,192,9/4/2022
+17,Employee 17,Manager,5/31/2016,Los Angeles,118,Honda,Model Y,21382,4/3/2022,118,4/4/2021
+19,Employee 19,Salesman,7/31/2016,Chicago,45,Honda,Model Y,24425,11/8/2020,45,11/10/2019
+19,Employee 19,Salesman,7/31/2016,Chicago,121,Honda,Camry,30685,4/24/2022,121,4/25/2021
+19,Employee 19,Salesman,7/31/2016,Chicago,173,Ford,Civic,75369,4/23/2023,173,4/24/2022
+21,Employee 21,Finance Officer,9/30/2016,Chicago,19,Honda,Model Y,78008,5/10/2020,19,5/12/2019
+21,Employee 21,Finance Officer,9/30/2016,Chicago,92,Ford,Model X,69116,10/3/2021,92,10/4/2020
+21,Employee 21,Finance Officer,9/30/2016,Chicago,127,Honda,Civic,74323,6/5/2022,127,6/6/2021
+21,Employee 21,Finance Officer,9/30/2016,Chicago,149,Honda,Civic,73842,11/6/2022,149,11/7/2021
+21,Employee 21,Finance Officer,9/30/2016,Chicago,167,BMW,Accord,51379,3/12/2023,167,3/13/2022
+22,Employee 22,Finance Officer,10/31/2016,New York,116,Mercedes,Model Y,20676,3/20/2022,116,3/21/2021
+23,Employee 23,Manager,11/30/2016,Chicago,26,Toyota,Camry,29422,6/28/2020,26,6/30/2019
+23,Employee 23,Manager,11/30/2016,Chicago,35,Honda,Camry,62935,8/30/2020,35,9/1/2019
+23,Employee 23,Manager,11/30/2016,Chicago,165,Ford,Camry,31026,2/26/2023,165,2/27/2022
+24,Employee 24,Finance Officer,12/31/2016,Chicago,27,Toyota,Accord,46046,7/5/2020,27,7/7/2019
+24,Employee 24,Finance Officer,12/31/2016,Chicago,42,BMW,Camry,49615,10/18/2020,42,10/20/2019
+24,Employee 24,Finance Officer,12/31/2016,Chicago,80,Honda,Accord,40851,7/11/2021,80,7/12/2020
+24,Employee 24,Finance Officer,12/31/2016,Chicago,104,Ford,Model Y,30000,12/26/2021,104,12/27/2020
+26,Employee 26,Finance Officer,2/28/2017,New York,43,Mercedes,Model Y,77602,10/25/2020,43,10/27/2019
+26,Employee 26,Finance Officer,2/28/2017,New York,102,Ford,Model Y,30774,12/12/2021,102,12/13/2020
+26,Employee 26,Finance Officer,2/28/2017,New York,133,Mercedes,Camry,39832,7/17/2022,133,7/18/2021
+28,Employee 28,Manager,4/30/2017,Los Angeles,13,Toyota,Civic,71748,3/29/2020,13,3/31/2019
+28,Employee 28,Manager,4/30/2017,Los Angeles,135,Honda,Camry,28077,7/31/2022,135,8/1/2021
+28,Employee 28,Manager,4/30/2017,Los Angeles,137,Ford,Model Y,51186,8/14/2022,137,8/15/2021
+28,Employee 28,Manager,4/30/2017,Los Angeles,148,BMW,Civic,44031,10/30/2022,148,10/31/2021
+30,Employee 30,Salesman,6/30/2017,Los Angeles,29,BMW,Accord,44805,7/19/2020,29,7/21/2019
+31,Employee 31,Salesman,7/31/2017,Houston,57,BMW,Camry,59117,1/31/2021,57,2/2/2020
+31,Employee 31,Salesman,7/31/2017,Houston,172,Toyota,Model X,72176,4/16/2023,172,4/17/2022
+31,Employee 31,Salesman,7/31/2017,Houston,189,Ford,Model X,45829,8/13/2023,189,8/14/2022
+33,Employee 33,Manager,9/30/2017,New York,101,Honda,Model X,25794,12/5/2021,101,12/6/2020
+33,Employee 33,Manager,9/30/2017,New York,191,Mercedes,Model X,62934,8/27/2023,191,8/28/2022
+34,Employee 34,Manager,10/31/2017,Miami,68,Toyota,Model Y,52561,4/18/2021,68,4/19/2020
+34,Employee 34,Manager,10/31/2017,Miami,69,Ford,Camry,72460,4/25/2021,69,4/26/2020
+34,Employee 34,Manager,10/31/2017,Miami,70,Honda,Model X,36709,5/2/2021,70,5/3/2020
+34,Employee 34,Manager,10/31/2017,Miami,107,Toyota,Model X,79881,1/16/2022,107,1/17/2021
+34,Employee 34,Manager,10/31/2017,Miami,113,Ford,Civic,39952,2/27/2022,113,2/28/2021
+34,Employee 34,Manager,10/31/2017,Miami,122,BMW,Model Y,58375,5/1/2022,122,5/2/2021
+35,Employee 35,Finance Officer,11/30/2017,Chicago,114,BMW,Accord,50943,3/6/2022,114,3/7/2021
+35,Employee 35,Finance Officer,11/30/2017,Chicago,178,Toyota,Model X,46086,5/28/2023,178,5/29/2022
+35,Employee 35,Finance Officer,11/30/2017,Chicago,197,Honda,Camry,74449,10/8/2023,197,10/9/2022
+37,Employee 37,Manager,1/31/2018,Miami,12,BMW,Camry,63020,3/22/2020,12,3/24/2019
+37,Employee 37,Manager,1/31/2018,Miami,14,Honda,Model Y,26411,4/5/2020,14,4/7/2019
+37,Employee 37,Manager,1/31/2018,Miami,103,Honda,Civic,33630,12/19/2021,103,12/20/2020
+37,Employee 37,Manager,1/31/2018,Miami,163,Honda,Model X,66897,2/12/2023,163,2/13/2022
+38,Employee 38,Salesman,2/28/2018,New York,58,BMW,Camry,33152,2/7/2021,58,2/9/2020
+38,Employee 38,Salesman,2/28/2018,New York,106,BMW,Accord,78043,1/9/2022,106,1/10/2021
+38,Employee 38,Salesman,2/28/2018,New York,151,Mercedes,Model Y,63109,11/20/2022,151,11/21/2021
+38,Employee 38,Salesman,2/28/2018,New York,152,Mercedes,Model X,70218,11/27/2022,152,11/28/2021
+39,Employee 39,Manager,3/31/2018,New York,199,Mercedes,Accord,31302,10/22/2023,199,10/23/2022
+40,Employee 40,Manager,4/30/2018,Los Angeles,147,BMW,Model Y,43087,10/23/2022,147,10/24/2021
+41,Employee 41,Finance Officer,5/31/2018,Chicago,22,Mercedes,Camry,42079,5/31/2020,22,6/2/2019
+41,Employee 41,Finance Officer,5/31/2018,Chicago,100,BMW,Model Y,43134,11/28/2021,100,11/29/2020
+42,Employee 42,Manager,6/30/2018,Houston,8,Ford,Civic,61996,2/23/2020,8,2/24/2019
+42,Employee 42,Manager,6/30/2018,Houston,196,Honda,Model X,54688,10/1/2023,196,10/2/2022
+43,Employee 43,Salesman,7/31/2018,Chicago,88,Honda,Camry,75673,9/5/2021,88,9/6/2020
+43,Employee 43,Salesman,7/31/2018,Chicago,99,BMW,Camry,40179,11/21/2021,99,11/22/2020
+44,Employee 44,Salesman,8/31/2018,Los Angeles,2,Toyota,Accord,26217,1/12/2020,2,1/13/2019
+44,Employee 44,Salesman,8/31/2018,Los Angeles,66,Honda,Model X,32093,4/4/2021,66,4/5/2020
+44,Employee 44,Salesman,8/31/2018,Los Angeles,74,Toyota,Accord,60683,5/30/2021,74,5/31/2020
+44,Employee 44,Salesman,8/31/2018,Los Angeles,79,Toyota,Accord,27061,7/4/2021,79,7/5/2020
+45,Employee 45,Finance Officer,9/30/2018,Houston,73,BMW,Camry,55044,5/23/2021,73,5/24/2020
+45,Employee 45,Finance Officer,9/30/2018,Houston,128,Ford,Model X,64214,6/12/2022,128,6/13/2021
+45,Employee 45,Finance Officer,9/30/2018,Houston,171,Toyota,Camry,56954,4/9/2023,171,4/10/2022
+46,Employee 46,Finance Officer,10/31/2018,Miami,72,BMW,Camry,34276,5/16/2021,72,5/17/2020
+47,Employee 47,Manager,11/30/2018,Chicago,142,Honda,Model Y,30957,9/18/2022,142,9/19/2021
+47,Employee 47,Manager,11/30/2018,Chicago,190,Honda,Model X,22623,8/20/2023,190,8/21/2022
+49,Employee 49,Manager,1/31/2019,New York,28,Ford,Model Y,67379,7/12/2020,28,7/14/2019
+49,Employee 49,Manager,1/31/2019,New York,65,Toyota,Model Y,75278,3/28/2021,65,3/29/2020
+49,Employee 49,Manager,1/31/2019,New York,105,Honda,Civic,25256,1/2/2022,105,1/3/2021
+49,Employee 49,Manager,1/31/2019,New York,138,Toyota,Model Y,56595,8/21/2022,138,8/22/2021
+49,Employee 49,Manager,1/31/2019,New York,146,Ford,Model Y,77720,10/16/2022,146,10/17/2021
+50,Employee 50,Finance Officer,2/28/2019,Los Angeles,91,Honda,Model X,72798,9/26/2021,91,9/27/2020
+50,Employee 50,Finance Officer,2/28/2019,Los Angeles,145,BMW,Camry,23719,10/9/2022,145,10/10/2021
+51,Employee 51,Manager,3/31/2019,Chicago,33,BMW,Model Y,40965,8/16/2020,33,8/18/2019
+51,Employee 51,Manager,3/31/2019,Chicago,64,Ford,Model Y,48116,3/21/2021,64,3/22/2020
+51,Employee 51,Manager,3/31/2019,Chicago,111,Mercedes,Model Y,29213,2/13/2022,111,2/14/2021
+51,Employee 51,Manager,3/31/2019,Chicago,198,BMW,Civic,47470,10/15/2023,198,10/16/2022
+54,Employee 54,Manager,6/30/2019,Miami,9,BMW,Model Y,26676,3/1/2020,9,3/3/2019
+54,Employee 54,Manager,6/30/2019,Miami,52,Honda,Model X,40991,12/27/2020,52,12/29/2019
+54,Employee 54,Manager,6/30/2019,Miami,129,BMW,Accord,44485,6/19/2022,129,6/20/2021
+55,Employee 55,Finance Officer,7/31/2019,Houston,15,Honda,Model Y,22565,4/12/2020,15,4/14/2019
+55,Employee 55,Finance Officer,7/31/2019,Houston,59,Honda,Accord,69436,2/14/2021,59,2/16/2020
+55,Employee 55,Finance Officer,7/31/2019,Houston,82,Ford,Model X,20643,7/25/2021,82,7/26/2020
+55,Employee 55,Finance Officer,7/31/2019,Houston,117,Ford,Accord,54918,3/27/2022,117,3/28/2021
+55,Employee 55,Finance Officer,7/31/2019,Houston,123,Mercedes,Camry,21892,5/8/2022,123,5/9/2021
+56,Employee 56,Salesman,8/31/2019,New York,3,Mercedes,Camry,65528,1/19/2020,3,1/20/2019
+56,Employee 56,Salesman,8/31/2019,New York,5,Mercedes,Camry,68846,2/2/2020,5,2/3/2019
+56,Employee 56,Salesman,8/31/2019,New York,30,Honda,Accord,70341,7/26/2020,30,7/28/2019
+58,Employee 58,Finance Officer,10/31/2019,Los Angeles,140,Mercedes,Model Y,73173,9/4/2022,140,9/5/2021
+59,Employee 59,Finance Officer,11/30/2019,Chicago,31,Toyota,Camry,47831,8/2/2020,31,8/4/2019
+59,Employee 59,Finance Officer,11/30/2019,Chicago,39,Toyota,Model X,68601,9/27/2020,39,9/29/2019
+59,Employee 59,Finance Officer,11/30/2019,Chicago,94,Mercedes,Camry,48410,10/17/2021,94,10/18/2020
+60,Employee 60,Finance Officer,12/31/2019,Chicago,6,Toyota,Model X,40836,2/9/2020,6,2/10/2019
+61,Employee 61,Manager,1/31/2020,Houston,17,Ford,Model X,49762,4/26/2020,17,4/28/2019
+61,Employee 61,Manager,1/31/2020,Houston,48,Toyota,Model X,46365,11/29/2020,48,12/1/2019
+61,Employee 61,Manager,1/31/2020,Houston,81,Toyota,Civic,61395,7/18/2021,81,7/19/2020
+61,Employee 61,Manager,1/31/2020,Houston,84,Mercedes,Civic,45606,8/8/2021,84,8/9/2020
+61,Employee 61,Manager,1/31/2020,Houston,98,Ford,Camry,72431,11/14/2021,98,11/15/2020
+62,Employee 62,Finance Officer,2/29/2020,Chicago,131,BMW,Civic,49412,7/3/2022,131,7/4/2021
+66,Employee 66,Salesman,6/30/2020,Houston,124,Ford,Accord,64924,5/15/2022,124,5/16/2021
+67,Employee 67,Manager,7/31/2020,Miami,11,Toyota,Camry,54392,3/15/2020,11,3/17/2019
+67,Employee 67,Manager,7/31/2020,Miami,47,BMW,Accord,50531,11/22/2020,47,11/24/2019
+67,Employee 67,Manager,7/31/2020,Miami,56,Honda,Camry,71586,1/24/2021,56,1/26/2020
+67,Employee 67,Manager,7/31/2020,Miami,95,Ford,Camry,24499,10/24/2021,95,10/25/2020
+67,Employee 67,Manager,7/31/2020,Miami,139,Mercedes,Civic,64687,8/28/2022,139,8/29/2021
+67,Employee 67,Manager,7/31/2020,Miami,176,Honda,Model Y,53964,5/14/2023,176,5/15/2022
+69,Employee 69,Salesman,9/30/2020,Houston,63,BMW,Model Y,74550,3/14/2021,63,3/15/2020
+69,Employee 69,Salesman,9/30/2020,Houston,83,Ford,Civic,29100,8/1/2021,83,8/2/2020
+69,Employee 69,Salesman,9/30/2020,Houston,157,Honda,Accord,66331,1/1/2023,157,1/2/2022
+70,Employee 70,Manager,10/31/2020,Chicago,53,Toyota,Model Y,22826,1/3/2021,53,1/5/2020
+70,Employee 70,Manager,10/31/2020,Chicago,143,BMW,Civic,63112,9/25/2022,143,9/26/2021
+70,Employee 70,Manager,10/31/2020,Chicago,179,Honda,Model Y,77351,6/4/2023,179,6/5/2022
+70,Employee 70,Manager,10/31/2020,Chicago,180,BMW,Model Y,51813,6/11/2023,180,6/12/2022
+71,Employee 71,Manager,11/30/2020,Chicago,44,Toyota,Model Y,46228,11/1/2020,44,11/3/2019
+71,Employee 71,Manager,11/30/2020,Chicago,183,Toyota,Camry,36121,7/2/2023,183,7/3/2022
+71,Employee 71,Manager,11/30/2020,Chicago,194,BMW,Model X,51352,9/17/2023,194,9/18/2022
+71,Employee 71,Manager,11/30/2020,Chicago,200,BMW,Accord,65524,10/29/2023,200,10/30/2022
+72,Employee 72,Finance Officer,12/31/2020,Miami,156,Honda,Model X,35068,12/25/2022,156,12/26/2021
+73,Employee 73,Finance Officer,1/31/2021,New York,46,Ford,Accord,36339,11/15/2020,46,11/17/2019
+74,Employee 74,Salesman,2/28/2021,Miami,182,Mercedes,Civic,21182,6/25/2023,182,6/26/2022
+76,Employee 76,Manager,4/30/2021,New York,108,Toyota,Accord,58454,1/23/2022,108,1/24/2021
+77,Employee 77,Salesman,5/31/2021,New York,78,Mercedes,Accord,49196,6/27/2021,78,6/28/2020
+78,Employee 78,Salesman,6/30/2021,Houston,155,BMW,Civic,40629,12/18/2022,155,12/19/2021
+80,Employee 80,Manager,8/31/2021,Los Angeles,136,Toyota,Camry,50202,8/7/2022,136,8/8/2021
+81,Employee 81,Manager,9/30/2021,Los Angeles,38,BMW,Camry,66783,9/20/2020,38,9/22/2019
+81,Employee 81,Manager,9/30/2021,Los Angeles,75,Honda,Accord,44398,6/6/2021,75,6/7/2020
+81,Employee 81,Manager,9/30/2021,Los Angeles,134,Mercedes,Accord,66595,7/24/2022,134,7/25/2021
+81,Employee 81,Manager,9/30/2021,Los Angeles,160,Mercedes,Model X,26843,1/22/2023,160,1/23/2022
+82,Employee 82,Finance Officer,10/31/2021,Los Angeles,1,Ford,Civic,71663,1/5/2020,1,1/6/2019
+82,Employee 82,Finance Officer,10/31/2021,Los Angeles,60,Mercedes,Accord,68446,2/21/2021,60,2/23/2020
+82,Employee 82,Finance Officer,10/31/2021,Los Angeles,168,Honda,Model X,57612,3/19/2023,168,3/20/2022
+84,Employee 84,Salesman,12/31/2021,Los Angeles,164,BMW,Camry,26386,2/19/2023,164,2/20/2022
+84,Employee 84,Salesman,12/31/2021,Los Angeles,195,Ford,Accord,44166,9/24/2023,195,9/25/2022
+85,Employee 85,Manager,1/31/2022,Chicago,36,Mercedes,Civic,38031,9/6/2020,36,9/8/2019
+85,Employee 85,Manager,1/31/2022,Chicago,50,BMW,Civic,75403,12/13/2020,50,12/15/2019
+85,Employee 85,Manager,1/31/2022,Chicago,76,Mercedes,Model X,37170,6/13/2021,76,6/14/2020
+87,Employee 87,Manager,3/31/2022,Chicago,125,Ford,Camry,48218,5/22/2022,125,5/23/2021
+88,Employee 88,Manager,4/30/2022,Los Angeles,18,Mercedes,Model X,33568,5/3/2020,18,5/5/2019
+88,Employee 88,Manager,4/30/2022,Los Angeles,130,Ford,Model X,50180,6/26/2022,130,6/27/2021
+89,Employee 89,Finance Officer,5/31/2022,Chicago,181,Toyota,Civic,35115,6/18/2023,181,6/19/2022
+89,Employee 89,Finance Officer,5/31/2022,Chicago,193,Toyota,Camry,20274,9/10/2023,193,9/11/2022
+90,Employee 90,Finance Officer,6/30/2022,Los Angeles,71,Mercedes,Model Y,37663,5/9/2021,71,5/10/2020
+90,Employee 90,Finance Officer,6/30/2022,Los Angeles,161,BMW,Model X,60542,1/29/2023,161,1/30/2022
+92,Employee 92,Manager,8/31/2022,Chicago,169,BMW,Accord,76523,3/26/2023,169,3/27/2022
+93,Employee 93,Salesman,9/30/2022,Chicago,153,Honda,Model Y,26729,12/4/2022,153,12/5/2021
+94,Employee 94,Salesman,10/31/2022,Chicago,16,BMW,Accord,79689,4/19/2020,16,4/21/2019
+94,Employee 94,Salesman,10/31/2022,Chicago,110,Honda,Camry,33247,2/6/2022,110,2/7/2021
+95,Employee 95,Manager,11/30/2022,New York,97,Mercedes,Accord,68679,11/7/2021,97,11/8/2020
+96,Employee 96,Salesman,12/31/2022,Houston,32,Mercedes,Camry,57979,8/9/2020,32,8/11/2019
+96,Employee 96,Salesman,12/31/2022,Houston,40,Toyota,Model X,49210,10/4/2020,40,10/6/2019
+96,Employee 96,Salesman,12/31/2022,Houston,49,Mercedes,Accord,35489,12/6/2020,49,12/8/2019
+98,Employee 98,Salesman,2/28/2023,Miami,34,Honda,Model Y,40279,8/23/2020,34,8/25/2019
+98,Employee 98,Salesman,2/28/2023,Miami,67,Mercedes,Accord,34951,4/11/2021,67,4/12/2020
+98,Employee 98,Salesman,2/28/2023,Miami,170,Mercedes,Model X,32470,4/2/2023,170,4/3/2022
+99,Employee 99,Manager,3/31/2023,Los Angeles,96,Ford,Camry,71359,10/31/2021,96,11/1/2020
+99,Employee 99,Manager,3/31/2023,Los Angeles,187,Mercedes,Civic,46726,7/30/2023,187,7/31/2022
+100,Employee 100,Manager,4/30/2023,New York,61,Mercedes,Accord,43458,2/28/2021,61,3/1/2020
+100,Employee 100,Manager,4/30/2023,New York,119,BMW,Model Y,79000,4/10/2022,119,4/11/2021
