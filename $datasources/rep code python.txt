@@ -1,0 +1,16 @@
+data.loc[18,'Calories']=18 #i c v . index,column = values
+
+data['Calories']=data['Calories'].astype('int')
+
+Mnemonic: "For Each Number, Choose Randomly"
+for x in range(10):              # Loop through numbers 0-9
+    result = np.random.choice(['head', 'tail'])  # Choose randomly
+    print(result) 
+
+for variable in iterable:
+    # Code block
+
+for x in range(5):  # Iterates from 0 to 4
+    print(x)
+
+ 
