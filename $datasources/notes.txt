@@ -1,0 +1,35 @@
+syntax: 
+specify table.function()
+specify table['column name'].function()
+table['column name']=table['column name'].function()
+read_csv
+
+isna().sum()
+head()
+tail()
+
+DataFrame
+Series()
+
+pd.options.display.max_rows
+
+info()
+to_string()
+dropna()
+fillna(method='bfill')
+to_datetime
+loc data.loc[data['bonus']==0,'NewColumn']='value in column'
+duplicated()
+drop_duplicates()
+isnull().sum()
+sort_values(by='')
+describe()
+
+concatenate: data['new column']=data['first]+data['last']
+	also can do data['first'].str.upper()/lower()/capitalize()
+
+
+groupby()
+
+merge()
+
